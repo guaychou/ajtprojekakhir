@@ -2,8 +2,8 @@
 #include <WiFi.h> 
 #include <PubSubClient.h> 
 #include <HTTPClient.h>
-#define wifi_ssid "Realme3" 
-#define wifi_password "kocakkocak456" 
+#define wifi_ssid "MySSID" 
+#define wifi_password "CHANGEME" 
 #define token "http://168.63.242.174/webservice.php"
 
 WiFiClient espClient; 
